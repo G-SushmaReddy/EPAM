@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hidden Clickable Element Example</title>
+    <script>
+        // Function to show the hidden button
+        function showHiddenButton() {
+            document.getElementById('hiddenButton').style.display = 'block';
+        }
+
+        // Function to update the status label when the hidden button is clicked
+        function hiddenButtonClicked() {
+            document.getElementById('statusLabel').innerText = 'Hidden button clicked';
+        }
+    </script>
+</head>
+<body>
+<button id="hiddenButton" style="display:none;" onclick="hiddenButtonClicked()">Click Me</button>
+<button onclick="showHiddenButton()">Show Hidden Button</button>
+<p id="statusLabel">Hidden button not clicked</p>
+</body>
+</html>

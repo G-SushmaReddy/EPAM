@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AWS-Task1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/AWS-Task2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/QEML-3.1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/QEML-3.1/microlearn-testng" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/QEML-3.1/microlearn-testng/src" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/QEML-4.1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/QEML-4.1/Tests/microlearn-restassured" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/QEML-4.1/jhipster-sample-app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/QEML-4.2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/QEML_3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/QEML_3.1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/QEML_3.1/microlearn-testng" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/QEML_3.1/microlearn-testng/src" vcs="Git" />
+  </component>
+</project>
