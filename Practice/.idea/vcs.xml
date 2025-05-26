@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/Automation_Framework" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Automation_Framework (final)/Automation_Framework" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Meghalu" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Meghalu/meghalu" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/RestAssured(Refacotring)/Tests/microlearn-restassured" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/RestAssured(Refacotring)/Tests/microlearn-restassured/src" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/RestaurentProject" vcs="Git" />
+  </component>
+</project>
